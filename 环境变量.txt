@@ -1,0 +1,3 @@
+xiaomi.r3g.bootfw
+
+2
